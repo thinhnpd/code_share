@@ -71,9 +71,9 @@ FC: no differences encountered
 ```
 
 ## 3. Phiên bản C++
-Ban giám khảo khả năng cao sẽ sử dụng phần mềm Themis để chấm bài.
-Themis mặc định dùng C++ 98. Các bạn hãy code sao cho không bị CE ở bản C++ này.
-Một số lưu ý khi hạ cấp từ C++ 11 xuống C++ 98/03:
+Ban giám khảo khả năng cao sẽ sử dụng phần mềm Themis để chấm bài.  
+Themis mặc định dùng C++ 98, các bạn hãy code sao cho không bị CE ở bản C++ này.  
+Một số lưu ý khi hạ cấp từ C++ 11 xuống C++ 98/03:  
 - Không dùng ```auto```, muốn dùng lower_bound hay upper_bound thì khai iterator/pointer ứng với KDL:
   + Mảng tĩnh (VD: ```ll a[]```): ```ll *tên biến = lower_bound...```
   + Vector (VD: ```vector<KDL>```): ```vector<KDL>::iterator = lower_bound ...```
