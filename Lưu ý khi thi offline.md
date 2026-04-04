@@ -1,7 +1,7 @@
 # MỘT SỐ LƯU Ý TRƯỚC KHI THI OFFLINE
 Gửi tặng anh em Tin học THCS Nguyễn Văn Linh (Cẩm Lệ).
 
-## 1. Kiểm tra
+## 1. Kiểm tra bài
 **Bước 1.** Kiểm tra logic  
 **Bước 2.** Sinh test tay, có thể mô phỏng cơ chế bằng giấy bút => Kiểm tra đã hiểu đúng đề chưa.  
 **Bước 3.** Sinh test vừa để check VAR.  
