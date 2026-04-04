@@ -78,7 +78,7 @@ Một số lưu ý khi hạ cấp từ C++ 11 xuống C++ 98/03:
   + Mảng tĩnh (VD: ```ll a[]```): ```ll *tên biến = lower_bound...```
   + Vector (VD: ```vector<KDL>```): ```vector<KDL>::iterator = lower_bound ...```
 - Không được dùng ```using ll = long long```, thay vào đó phải dùng ```#define ll long long``` hoặc ```typedef long long ll;```.
-- Không được for kiểu này: ```for (int x : a)```, thay bằng ```for (int i = 0; i < a.size(); i++) ```.  
+- Không được ```for``` kiểu này: ```for (int x : a)```, thay bằng ```for (int i = 0; i < a.size(); i++) ```.  
 
 **Cách chuyển xuống phiên bản C++98 cho CodeBlocks:** Vào Settings, chọn Compiler, và chọn như hình này: <img width="546" height="450" alt="{D8FF2DE6-D564-419A-9F13-B12E523BC78C}" src="https://github.com/user-attachments/assets/5784ab39-a7bb-4b19-88a8-becd3d3287a3" />
 
