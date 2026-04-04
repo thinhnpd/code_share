@@ -8,9 +8,8 @@ Gửi tặng anh em Tin học THCS Nguyễn Văn Linh (Cẩm Lệ).
 **Bước 4.** Sinh test khổng lồ (sub cuối) để kiểm tra TLE, MLE (Quá giới hạn RAM), ...  
 **Bước 5.** Sinh test đặc biệt (edge case) (VD: Số siêu nhỏ, số chạm giới hạn, ...) (Kỹ thì làm, không thích cũng được)  
 
-(*Hướng dẫn sinh test của Phạm Văn Hạnh:* https://www.youtube.com/watch?v=jrm8gU-7B4o)
-
 ## 2. Sinh test
+(*Hướng dẫn sinh test của Phạm Văn Hạnh:* https://www.youtube.com/watch?v=jrm8gU-7B4o)  
 **a. Chuẩn bị:** 1 file code sinh test, 1 file code trâu, 1 file code "chuẩn" (file dùng để nộp bài), 1 file batch để chạy trình sinh test và so code.  
 **b. Mô hình cơ bản của sinh test:** Chạy code sinh test -> Chạy code trâu và "chuẩn" (chạy trâu trước hay "chuẩn" trước cũng đc) -> So sánh 2 output của 2 code.  
 **c. Quy trình cụ thể:**   
