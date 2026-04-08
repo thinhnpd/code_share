@@ -3,7 +3,7 @@ Gửi tặng anh em Tin học THCS Nguyễn Văn Linh (Cẩm Lệ).
 
 ## 1. Kiểm tra bài
 **Bước 1.** Kiểm tra logic  
-**Bước 2.** Sinh test tay, có thể mô phỏng cơ chế bằng giấy bút => Kiểm tra đã hiểu đúng đề chưa.  
+**Bước 2.** Sinh test tay, có thể mô phỏng cơ chế bằng giấy bút $\rightarrow$ Kiểm tra đã hiểu đúng đề chưa.  
 **Bước 3.** Sinh test vừa để check VAR.  
 **Bước 4.** Sinh test khổng lồ (sub cuối) để kiểm tra TLE, MLE (Quá giới hạn RAM), ...  
 **Bước 5.** Sinh test đặc biệt (edge case) (VD: Số siêu nhỏ, số chạm giới hạn, ...) (Kỹ thì làm, không thích cũng được)  
